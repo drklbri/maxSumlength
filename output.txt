@@ -1,0 +1,4 @@
+1 5
+14 18
+30 34
+The sum of the lengths of the segments is: 12
